@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ShowMyName</string>
+    <string name="enter_phone_number">enter phone number</string>
+    <string name="enter_otp">enter OTP</string>
+    <string name="verify">Verify</string>
+    <string name="verification">Verification</string>
+    <string name="otp_enter">enter otp</string>
+    <string name="date">22 Dec 2022, 13 : 00</string>
+    <string name="vanilla_custard_filled_croissant_1">Vanilla Custard Filled Croissant +1</string>
+    <string name="strawberry_cheesecake_2">Strawberry Cheesecake +2</string>
+    <string name="delivery_online_payment">Delivery, Online Payment</string>
+    <string name="_24_50">$24.50</string>
+    <string name="reject">Reject</string>
+    <string name="accept">Accept</string>
+    <string name="payment_pending">Payment Pending</string>
+    <string name="order_pending">Order Pending</string>
+    <string name="button">Button</string>
+</resources>
